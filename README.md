@@ -15,8 +15,11 @@ python3 app.py
 ### Load the Extension into Chrome
 
 Open Chrome and navigate to chrome://extensions/.
+
 Enable Developer mode by toggling the switch in the top-right corner.
+
 Click on Load unpacked.
+
 Select the extension folder from the cloned repository.
 
 The extension should now appear in your list of Chrome extensions.

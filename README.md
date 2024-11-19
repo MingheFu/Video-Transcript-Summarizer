@@ -7,9 +7,9 @@ The YouTube Transcript Summarizer is a Chrome extension that allows users to qui
 
 ## Run the backend flask app
 
-'''bash
+```bash
 python3 app.py
-'''
+```
 
 ## Chrome Extension Setup
 ### Load the Extension into Chrome
